@@ -2,9 +2,12 @@ package Java;
 
 public class Day_5 {
 	public static String reverse(String str) {
-		if (str == null) {
-			return null;
-		}
+		
+//		reverse string 
+		
+//		if (str == null) {
+//			return null;
+//		}
 
 		StringBuilder reversed = new StringBuilder();
 		for (int i = str.length() - 1; i >= 0; i--) {
