@@ -4,7 +4,8 @@ public class Day_25 {
 	class Main {
 		  public static void main(String[] args) {
 
-		    String str = "Radar", reverseStr = "";
+		    String str = "Radar";
+		    String reverseStr = "";
 		    
 		    int strLength = str.length();
 
