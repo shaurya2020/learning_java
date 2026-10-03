@@ -8,5 +8,4 @@ public class Day_31 {
 		String letter ="Dear ayuu,\n\tThis is java.\n\t Yuup.";
 		System.out.println(letter);
 	}
-
 }
