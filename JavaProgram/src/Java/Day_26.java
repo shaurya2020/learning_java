@@ -6,6 +6,7 @@ public class Day_26 {
 		
 //		lower Case and Upeer Case print
 		
+		
 		String name = "Ayush";
 		name = name.toLowerCase();
 		System.out.println(name);
