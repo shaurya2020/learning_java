@@ -11,7 +11,6 @@ public class Day_32 {
 		while(num>0) {
 			rem=num%10;
 			rev=rev*10;
-			
 		}
 		System.out.println(rev);
 	}
