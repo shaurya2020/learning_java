@@ -13,6 +13,7 @@ public class back_loop {
 		int i =0;
 		while(i<3) {
 			System.out.println("its ready");
+			break;
 		}
 	
 	}
