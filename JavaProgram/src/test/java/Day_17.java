@@ -1,6 +1,5 @@
 package test.java;
 
-import java.util.Scanner;
 
 public class Day_17 {
 		public static void main(String[] args) {
@@ -22,6 +21,7 @@ public class Day_17 {
 			float subject3 = 89;
 			float cgpa = subject1+subject2+subject3/30;
 			System.out.println(cgpa);
+			
 			
 		}
 	}
